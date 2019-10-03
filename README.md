@@ -21,6 +21,7 @@ View this jekyll theme in action [here](https://swcool.github.io/landing-page-th
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRochelleShen%2FRochelleShen.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRochelleShen%2FRochelleShen.github.io?ref=badge_shield)
 
 ===
 
@@ -30,6 +31,9 @@ This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachau
 ## License
 The contents of this repository are licensed under the [Apache
 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRochelleShen%2FRochelleShen.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRochelleShen%2FRochelleShen.github.io?ref=badge_large)
 
 ## Version
 1.0.1
